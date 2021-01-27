@@ -26,7 +26,14 @@
 
 #### 目录
 
-- [所有文章]
-- [最近文章]
-- [精选文章]
-- [写作计划]
+- [文章列表](./index/all.md)
+- [自选文章](./index/select.md)
+- [写作计划](./index/plan.md)
+
+
+#### 分类
+
+- translate 翻译
+- book      读书
+- tech      技术
+- life      人文
