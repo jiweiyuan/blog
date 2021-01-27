@@ -29,11 +29,13 @@
 - [文章列表](./index/all.md)
 - [自选文章](./index/select.md)
 - [写作计划](./index/plan.md)
+- [收藏文章](./index/collection.md)
 
 
 #### 分类
 
-- translate 翻译
-- book      读书
-- tech      技术
-- life      人文
+- 人文 life
+- 技术 tech         
+- 读书 read         
+- 翻译 translation  
+- 收藏 collection   

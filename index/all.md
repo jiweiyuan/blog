@@ -7,4 +7,4 @@
 
 
 ## 2020
-- [翻译: Just JavaScript —— JavaScript 的构造](../translate/just-javascript.md)
+- [翻译: Just JavaScript —— JavaScript 的构造](../translation/just-javascript.md)
