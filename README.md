@@ -6,12 +6,15 @@
 - [写作计划](./index/plan.md)
 - [收藏文章](./index/collection.md)
 - [资源列表](./index/resource.md)
+- [阅网笔记](./index/note.md)
+- [读书笔记](./index/book.md)
 
 #### 内容分类
 
 - 人文 life
 - 技术 tech         
-- 读书 read         
+- 读书 book
+- 笔记 note         
 - 翻译 translation  
 - 收藏 collection   
 - 资源 resource
