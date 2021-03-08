@@ -4,6 +4,7 @@
 
 - [文章列表](./index/all.md)
 - [写作计划](./index/plan.md)
+- [技术分享](./index/tech.md)
 - [收藏文章](./index/collection.md)
 - [资源列表](./index/resource.md)
 - [阅网笔记](./index/note.md)
