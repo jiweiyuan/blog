@@ -1,6 +1,6 @@
 # 由阅读源码想到
 
-- https://www.terencexie.com/
+作者： https://www.terencexie.com/
 
 #### I
 
