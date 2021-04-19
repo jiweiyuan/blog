@@ -12,3 +12,7 @@
 
 ##### 2021-03-25
 - [由阅读源码想到](../collection/thoughts-on-read-source-code.md)
+
+#### 编程
+- [Teach Yourself Programming in Ten Years, Peter Norvig](https://norvig.com/21-days.html)
+- [How To Learn Hacking, Eric Steven Raymond](http://www.catb.org/esr/faqs/hacking-howto.html)
