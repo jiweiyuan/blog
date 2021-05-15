@@ -1,5 +1,8 @@
 # 收藏文章
 
+##### 2021-05-15
+- [王慧文《互联网产品管理课》](../collection/product-course-tinghua-wanghuiwen.md)
+
 ##### 2021-02-01
 - [张小龙： 微信10周年公开课](../collection/wechat-10th-pro-zhangxiaolong.md)
 - [汪源：与未来同行](../collection/go-with-future-wangyuan.md)
