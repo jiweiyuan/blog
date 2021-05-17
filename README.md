@@ -1,29 +1,21 @@
 # 我的博客
 
-#### 博客目录
+这里是袁继伟的个人写作空间
 
-- [每周笔记](./index/weekly.md)
-- [所有文章](./index/all.md)
-- [技术文章](./index/tech.md)
-- [读书思考](./index/book.md)
-- [个人收藏](./index/collection.md)
+1. GitHub: https://github.com/jiweiyuan/blog
+2. 微信公众号: 袁继伟
 
+## 周记
 
-#### 内容分类
+- [20210516](./blog/weekly/20210516.md)
+- [20210509](./blog/weekly/20210509.md)
 
-- 人文 life
-- 技术 tech         
-- 读书 book
-- 笔记 note         
-- 翻译 translation  
-- 收藏 collection   
-- 资源 resource
+## 文章
 
-#### 创作工具
+- [翻译： Hacking 编程之道 - Eric S. Raymond](./blog/articles/hacking-howto.md)
+- [读书：《程序员修炼之道》- David Thomas](./blog/articles/be-a-professional-programmer.md)
+- [读书：《这就是软件工程师》- 陈皓等](./blog/articles/this-is-software-eginneer.md)
+- [翻译：Just JavaScript -  Dan Abramov](./blog/articles/just-javascript.md)
 
-现阶段的写作输出平台：
-
-1. GitHub ：https://github.com/jiweiyuan/blog
-2. 微信公众号:  袁继伟
 
 
