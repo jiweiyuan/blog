@@ -12,10 +12,10 @@
 
 ## 文章
 
-- [翻译： Hacking 编程之道 - Eric S. Raymond](./blog/articles/hacking-howto.md)
-- [读书：《程序员修炼之道》- David Thomas](./blog/articles/be-a-professional-programmer.md)
-- [读书：《这就是软件工程师》- 陈皓等](./blog/articles/this-is-software-eginneer.md)
-- [翻译：Just JavaScript -  Dan Abramov](./blog/articles/just-javascript.md)
+- [翻译： Hacking 编程之道 - Eric S. Raymond](./blog/articles/hacking-howto.md), 20210516
+- [读书：《程序员的职业素养》- Robert C.Martin](./blog/articles/be-a-professional-programmer.md), 20210316
+- [读书：《这就是软件工程师》- 陈皓等](./blog/articles/this-is-software-eginneer.md), 20210126
+- [翻译：Just JavaScript - Dan Abramov](./blog/articles/just-javascript.md), 20200320
 
 
 
