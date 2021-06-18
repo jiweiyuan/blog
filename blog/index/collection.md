@@ -1,4 +1,6 @@
 # 收藏文章
+#### 2021-06-18
+- [毛泽东：改造我们的学习](../collection/to-change-our-study-mao.md)
 
 ##### 2021-05-15
 - [王慧文《互联网产品管理课》](../collection/product-course-tinghua-wanghuiwen.md)
