@@ -5,17 +5,10 @@
 1. GitHub: https://github.com/jiweiyuan/blog
 2. 微信公众号: 袁继伟
 
-## 周记
 
-- [20210614](./blog/weekly/20210620.md)
-- [20210614](./blog/weekly/20210614.md)
-- [20210604](./blog/weekly/20210604.md)
-- [20210531](./blog/weekly/20210531.md)
-- [20210523](./blog/weekly/20210523.md)
-- [20210516](./blog/weekly/20210516.md)
-- [20210509](./blog/weekly/20210509.md)
 
 ## 文章
+
 - [读书：《华为数据之道》- 华为数据管理部](./blog/articles/enterprise-data-at-huawei.md)
 - [读书：《单核工作法图解》- Staffan Nöteberg](./blog/articles/monotasking.md), 20210605
 - [翻译： Hacking 编程之道 - Eric S. Raymond](./blog/articles/hacking-howto.md), 20210516
@@ -24,4 +17,13 @@
 - [翻译：Just JavaScript - Dan Abramov](./blog/articles/just-javascript.md), 20200320
 
 
+## 周记
 
+- [20210629](./blog/weekly/20210629.md)
+- [20210620](./blog/weekly/20210620.md)
+- [20210614](./blog/weekly/20210614.md)
+- [20210604](./blog/weekly/20210604.md)
+- [20210531](./blog/weekly/20210531.md)
+- [20210523](./blog/weekly/20210523.md)
+- [20210516](./blog/weekly/20210516.md)
+- [20210509](./blog/weekly/20210509.md)
