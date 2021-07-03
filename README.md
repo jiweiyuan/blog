@@ -9,8 +9,8 @@
 
 ## 文章
 
-- [读书：《DOOM 启世录》](./blog/articles/masters-of-doom.md)
-- [读书：《华为数据之道》- 华为数据管理部](./blog/articles/enterprise-data-at-huawei.md)
+- [读书：《DOOM 启世录》](./blog/articles/masters-of-doom.md), 2021.07.03
+- [读书：《华为数据之道》- 华为数据管理部](./blog/articles/enterprise-data-at-huawei.md), 2021.06.14
 - [读书：《单核工作法图解》- Staffan Nöteberg](./blog/articles/monotasking.md), 20210605
 - [翻译： Hacking 编程之道 - Eric S. Raymond](./blog/articles/hacking-howto.md), 20210516
 - [读书：《程序员的职业素养》- Robert C.Martin](./blog/articles/be-a-professional-programmer.md), 20210316
