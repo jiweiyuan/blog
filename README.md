@@ -7,6 +7,7 @@
 
 
 
+
 ## 文章
 
 - [读书：《DOOM 启世录》](./blog/articles/masters-of-doom.md), 2021.07.03
@@ -16,7 +17,6 @@
 - [读书：《程序员的职业素养》- Robert C.Martin](./blog/articles/be-a-professional-programmer.md), 20210316
 - [读书：《这就是软件工程师》- 陈皓等](./blog/articles/this-is-software-eginneer.md), 20210126
 - [翻译：Just JavaScript - Dan Abramov](./blog/articles/just-javascript.md), 20200320
-
 
 ## 周记
 - [20210717](./blog/weekly/20210723.md)
@@ -31,3 +31,4 @@
 - [20210523](./blog/weekly/20210523.md)
 - [20210516](./blog/weekly/20210516.md)
 - [20210509](./blog/weekly/20210509.md)
+

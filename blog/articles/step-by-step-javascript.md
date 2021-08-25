@@ -1,7 +1,5 @@
 # Step By Step JavaScript
 
-
-
 ## 10 - 50 SLOC
 
 - https://github.com/mourner/tinyqueue
