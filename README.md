@@ -1,4 +1,4 @@
-# 我的博客
+# [我的博客](https://github.com/jiweiyuan/blog)
 
 这里是袁继伟的个人写作空间
 
