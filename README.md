@@ -19,7 +19,11 @@
 - [翻译：Just JavaScript - Dan Abramov](./blog/articles/just-javascript.md), 20200320
 
 ## 周记
-- [20210717](./blog/weekly/20210723.md)
+
+- [20210821](./blog/weekly/20210821.md)
+- [20210813](./blog/weekly/20210813.md)
+- [20210806](./blog/weekly/20210806.md)
+- [20210723](./blog/weekly/20210723.md)
 - [20210717](./blog/weekly/20210717.md)
 - [20210710](./blog/weekly/20210710.md)
 - [20210704](./blog/weekly/20210704.md)
