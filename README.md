@@ -5,8 +5,14 @@
 1. GitHub: https://github.com/jiweiyuan/blog
 2. 微信公众号: 袁继伟
 
+## 关于
+
+- [编程与计算机科学 —— 个人书单](./notes/202108291315.md)
+
 ## 文章
 
+<!-- - [技术：Linkedin DataHub 前端技术调研]() -->
+- [技术：JavaScript Naming Conventions](./notes/202108291351.md), 2021.08.29
 - [技术：在 Vue 中使用 EventBus 的思考](./notes/202108252005.md), 2021.08.25
 - [读书：《DOOM 启世录》](./blog/articles/masters-of-doom.md), 2021.07.03
 - [读书：《华为数据之道》- 华为数据管理部](./blog/articles/enterprise-data-at-huawei.md), 2021.06.14
@@ -18,19 +24,19 @@
 
 ## 周记
 
-- [20210821](./blog/weekly/20210821.md)
-- [20210813](./blog/weekly/20210813.md)
-- [20210806](./blog/weekly/20210806.md)
-- [20210723](./blog/weekly/20210723.md)
-- [20210717](./blog/weekly/20210717.md)
-- [20210710](./blog/weekly/20210710.md)
-- [20210704](./blog/weekly/20210704.md)
-- [20210629](./blog/weekly/20210629.md)
-- [20210620](./blog/weekly/20210620.md)
-- [20210614](./blog/weekly/20210614.md)
-- [20210604](./blog/weekly/20210604.md)
-- [20210531](./blog/weekly/20210531.md)
-- [20210523](./blog/weekly/20210523.md)
-- [20210516](./blog/weekly/20210516.md)
-- [20210509](./blog/weekly/20210509.md)
+- [2021-08-21](./blog/weekly/20210821.md)
+- [2021-08-13](./blog/weekly/20210813.md)
+- [2021-08-06](./blog/weekly/20210806.md)
+- [2021-07-23](./blog/weekly/20210723.md)
+- [2021-07-17](./blog/weekly/20210717.md)
+- [2021-07-10](./blog/weekly/20210710.md)
+- [2021-07-04](./blog/weekly/20210704.md)
+- [2021-06-29](./blog/weekly/20210629.md)
+- [2021-06-20](./blog/weekly/20210620.md)
+- [2021-06-14](./blog/weekly/20210614.md)
+- [2021-06-04](./blog/weekly/20210604.md)
+- [2021-05-31](./blog/weekly/20210531.md)
+- [2021-05-23](./blog/weekly/20210523.md)
+- [2021-05-16](./blog/weekly/20210516.md)
+- [2021-05-09](./blog/weekly/20210509.md)
 
