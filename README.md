@@ -5,9 +5,16 @@
 1. GitHub: https://github.com/jiweiyuan/blog
 2. 微信公众号: 袁继伟
 
-## 关于
+## 关于我
 
-- [编程与计算机科学 —— 个人书单](./notes/202108291315.md)
+- [近期做的在忙的事情](./notes/20211006-recently-todo.md)
+- [编程与计算机科学书单 —— 未读](./notes/20211006-cs-book-to-read.md)
+- [编程与计算机科学书单 —— 已读](./notes/20211006-cs-book-read.md)
+- [业余编程项目清单](./notes/2021106-slide-project-list.md)
+- [Step-By-Step: Go 源码阅读清单](./notes/20211006-step-by-step-golang.md)
+- [Step-By-Step: JS/TS 源码阅读清单](./notes/20211006-step-by-step-javascript.md)
+- [Github Profile](https://github.com/jiweiyuan/) 
+- [LeetCode Profile](https://leetcode.com/jiweiyuan/)
 
 ## 文章
 
