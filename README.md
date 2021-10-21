@@ -18,6 +18,7 @@
 
 ## 文章
 
+- [技术：How Pronounce Tech Words](./notes/20211021-how-pronounce-tech-word.md), 2021.10.20
 - [技术：如何做开源产品的前端技术调研？以 Linkedin DataHub 项目为例](./notes/202109041245.md), 2021.09.04
 - [技术：JavaScript Naming Conventions](./notes/202108291351.md), 2021.08.29
 - [技术：在 Vue 中使用 EventBus 的思考](./notes/202108252005.md), 2021.08.25
