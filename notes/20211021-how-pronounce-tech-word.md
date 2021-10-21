@@ -16,4 +16,4 @@ Word Excel Slide Chrome Safari Firefox Excalidraw Figma Sketch Slack Postman Xsh
 
 object function event oop(object oriented programming)
 
-browser router route file directory enter execute redo undo exit desktop edge node graph tree list array string store state database
+browser router route file directory enter execute redo undo exit desktop edge node graph tree list array string store state database algorithm
