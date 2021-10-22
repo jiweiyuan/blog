@@ -5,12 +5,20 @@
 1. GitHub: https://github.com/jiweiyuan/blog
 2. 微信公众号: 袁继伟
 
-## 关于
+## 关于我
 
-- [编程与计算机科学 —— 个人书单](./notes/202108291315.md)
+- [近期做的在忙的事情](./notes/20211006-recently-todo.md)
+- [编程与计算机科学书单 —— 未读](./notes/20211006-cs-book-to-read.md)
+- [编程与计算机科学书单 —— 已读](./notes/20211006-cs-book-read.md)
+- [业余编程项目清单](./notes/2021106-slide-project-list.md)
+- [Step-By-Step: Go 源码阅读清单](./notes/20211006-step-by-step-golang.md)
+- [Step-By-Step: JS/TS 源码阅读清单](./notes/20211006-step-by-step-javascript.md)
+- [Github Profile](https://github.com/jiweiyuan/) 
+- [LeetCode Profile](https://leetcode.com/jiweiyuan/)
 
 ## 文章
 
+- [技术：How Pronounce Tech Words](./notes/20211021-how-pronounce-tech-word.md), 2021.10.20
 - [技术：如何做开源产品的前端技术调研？以 Linkedin DataHub 项目为例](./notes/202109041245.md), 2021.09.04
 - [技术：JavaScript Naming Conventions](./notes/202108291351.md), 2021.08.29
 - [技术：在 Vue 中使用 EventBus 的思考](./notes/202108252005.md), 2021.08.25
