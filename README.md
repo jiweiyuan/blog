@@ -16,13 +16,13 @@
 - [Step-By-Step: JS/TS 源码阅读清单](./notes/20211006-step-by-step-javascript.md)
 - [Github Profile](https://github.com/jiweiyuan/) 
 - [LeetCode Profile](https://leetcode.com/jiweiyuan/)
-- [个人周记]
+- [个人周记](./WEEKLY.md)
 
 ## 文章
 
-- [读书：《创始人手记》- 季琦](./notes/20211027-reading-founders-notes-jiqi.md)
+- [读书：《创始人手记》- 季琦](./notes/20211027-reading-founders-notes-jiqi.md), 2021.10.27
 - [技术：How Pronounce Tech Words](./notes/20211021-how-pronounce-tech-word.md), 2021.10.20
-- [技术：JavaScript Naming Conventions](./notes/2021082-javascript-naming-conventions.md)
+- [技术：JavaScript Naming Conventions](./notes/20211008-javascript-naming-conventions.md), 2021.10.08
 - [技术：Linkedin DataHub 前端项目技术调研报告](./notes/20210904-research-linkedin-datahub-frontend.md), 2021.09.04
 - [技术：JavaScript Naming Conventions](./notes/202108291351.md), 2021.08.29
 - [技术：在 Vue 中使用 EventBus 的思考](./notes/20210825-thinking-vue-eventbus.md), 2021.08.25
