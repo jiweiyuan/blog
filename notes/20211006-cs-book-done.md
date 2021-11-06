@@ -1,12 +1,6 @@
----
-visibility: public
-status: in progress
-created: 2021-11-06
-updated:
-tags: todo,book
----
+# 编程与计算机科学书单 —— 个人书单
 
-# CS Book List
+记录个成为职业程序员的过程中读的书。
 
 | Name | Time | Links | 
 | ---  | ---          | ---   |

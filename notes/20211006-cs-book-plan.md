@@ -6,7 +6,7 @@ updated:
 tags: todo,book
 ---
 
-# CS Book Reading Plan
+# 编程与计算机科学书单 —— 计划
 
 如果你对我的读书计划感兴趣，可以联系我一起读。
 
