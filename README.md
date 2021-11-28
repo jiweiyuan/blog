@@ -20,6 +20,7 @@
 
 ## 文章
 
+- [读书：《走出软件作坊》- 阿朱](./notes/20211128-the-itch-of-software-workshop.md), 2021.11.28
 - [读书：《创始人手记》- 季琦](./notes/20211027-reading-founders-notes-jiqi.md), 2021.10.27
 - [技术：How Pronounce Tech Words](./notes/20211021-how-pronounce-tech-word.md), 2021.10.20
 - [技术：JavaScript Naming Conventions](./notes/20211008-javascript-naming-conventions.md), 2021.10.08
